@@ -1,0 +1,13 @@
+table td{
+   border: 1px solid black;
+}
+table{
+   border-collapse: collapse;
+   margin: 20px;
+   padding: 0 10px;
+   text-align: center;
+   color: brown;
+}
+.fab {
+   font-size: 100px;
+}
